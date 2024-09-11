@@ -1,5 +1,4 @@
 # Toursim Website
-Live: https://tourismwebmanoj.ccbp.tech/
 
 ## Overview
 This project is a web application designed to guide users through popular tourist destinations, providing detailed information and engaging content to enhance their travel planning experience.
